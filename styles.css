@@ -1,0 +1,190 @@
+
+body {
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+ 
+}
+
+.__div {
+    background-color: rgb(27, 27, 27);
+    height: 200px;
+    width: 140px;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+ 
+
+}
+
+.box {
+    margin: 20px;
+
+}
+
+.circle {
+    color: rgba(255, 255, 255, 0.762);
+
+}
+
+
+
+.laptop {
+    color: rgb(139, 70, 27);
+    padding: 10px;
+    margin: 5px;
+}
+
+
+p {
+    color: white;
+    font-family: Arial;
+    font-size: 12px;
+    align-items: left;
+    text-align: left;
+    padding: 5px;
+    margin: 10px;
+  
+}
+
+.para:hover {
+    color: rgb(67, 109, 67);
+    text-decoration: underline;
+}
+
+
+h5 {
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+}
+
+
+h3 {
+    color: white;
+    font-family: Arial;
+    font-size: 22px;
+
+}
+
+.head {
+    color: white;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.atta {
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-family: Arial;
+}
+
+.btn {
+    background-color: rgb(71, 101, 71);
+    margin: 10px;
+    padding: 5px;
+    height: 25px;
+    width: 130px;
+    border-radius: 10px;
+    border-style: none;
+    color: black;
+}
+
+
+.login {
+    background-color: rgba(38, 38, 38, 0.778);
+    height: 250px;
+    width: 270px;
+    border-radius: 10px;
+    margin: auto;
+ 
+    
+    
+}
+
+
+.btn:hover {
+    background-color: rgb(59, 63, 59);
+}
+
+.user, .pass {
+    height: 26px;
+    width: 162px;
+    background-color: rgba(255, 255, 255, 0.777);
+    border-radius: 10px;
+    border-style: none;
+}
+
+.emoji {
+    color: rgb(255, 255, 255);
+}
+
+
+.up, .down {
+    text-decoration: none;
+}
+
+.para {
+    color: grey;
+}
+
+.newss {
+    height: 150px;
+    width: 340px;
+    background-color: rgb(27, 27, 27);;
+    border-radius: 25px;
+    margin: auto;
+    align-items: left;
+    text-align: left;
+
+}
+
+.vertical {
+    padding: 10px;
+    margin: 10px;
+    color: rgba(255, 255, 255, 0.797);
+
+}
+
+
+.btntwo {
+    height: 35px;
+    width: 210px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.269);
+    border-style: none;
+    color: rgba(255, 255, 255, 0.269);
+    margin: auto;
+    align-items: left;
+    text-align: left;
+
+ 
+}
+
+
+.search {
+
+    padding: 10px;
+
+
+}
+
+
+.cone {
+    color: rgba(190, 136, 34, 0.785);
+}
+
+.footer {
+    background-color: rgba(128, 128, 128, 0.24);
+    height: 70px;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    margin: auto;
+    bottom: 0;
+    left: 0;
+    color: rgba(255, 255, 255, 0.738);
+}
